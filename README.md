@@ -31,9 +31,9 @@
 - [Screenshoot](#ss)
 
 
-## UTCTF <a name = "dependency"></a>
-### Beginner
-Title :Sanity Check
+# UTCTF <a name = "dependency"></a>
+## Beginner
+### Title :Sanity Check
 Point : 5
 Desc  :
 Please join the contest Discord server so you can get updates about hints, status updates, and more.
@@ -42,8 +42,25 @@ You'll find the flag in the description of the #announcements channel!
 
 Cara menemukan flag:
 cukup pergi ke discord server, menuju #announcements, lalu pada deskripsi announcement terdapat flagnya.
+
 ![flag1](https://user-images.githubusercontent.com/49645946/111019853-5ec28f80-83f4-11eb-878a-c97b020b364e.png)
 
+### Title :HTML
+Point : 912
+Desc  :
+I hid a flag somewhere in the code of the UTCTF website, can you find it?
+
+Cara menemukan flag:
+cukup menuju website UTCTF [bagian ini](https://www.isss.io/utctf/) lalu saya menggunakan browser google chrome, untuk browser yang lain mungkin tampilannya berbeda, lalu tekan f12 untuk membuka element dari websitenya, dan temukan flagnya dengan mencari kontennya (Ctrl + F) : flag.
+
+![flag2](https://user-images.githubusercontent.com/49645946/111019963-2a9b9e80-83f5-11eb-9e90-71c0749f3b24.png)
+
+### Title :Stringy Things
+Point : 922
+Desc  :
+I know there's a string in this binary somewhere.... Now where did I leave it?
+
+Cara menemukan flag:
 
 
 ## Screenshoot <a name = "ss"></a>
